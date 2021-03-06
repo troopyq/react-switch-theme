@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-switch-theme/static/css/main.7f42176b.chunk.css",
+    "main.js": "/react-switch-theme/static/js/main.7c727469.chunk.js",
+    "main.js.map": "/react-switch-theme/static/js/main.7c727469.chunk.js.map",
+    "runtime-main.js": "/react-switch-theme/static/js/runtime-main.cd433578.js",
+    "runtime-main.js.map": "/react-switch-theme/static/js/runtime-main.cd433578.js.map",
+    "static/js/2.ce2c8865.chunk.js": "/react-switch-theme/static/js/2.ce2c8865.chunk.js",
+    "static/js/2.ce2c8865.chunk.js.map": "/react-switch-theme/static/js/2.ce2c8865.chunk.js.map",
+    "index.html": "/react-switch-theme/index.html",
+    "static/css/main.7f42176b.chunk.css.map": "/react-switch-theme/static/css/main.7f42176b.chunk.css.map",
+    "static/js/2.ce2c8865.chunk.js.LICENSE.txt": "/react-switch-theme/static/js/2.ce2c8865.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/react-switch-theme/static/media/fontello.84853b08.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd433578.js",
+    "static/js/2.ce2c8865.chunk.js",
+    "static/css/main.7f42176b.chunk.css",
+    "static/js/main.7c727469.chunk.js"
+  ]
+}
