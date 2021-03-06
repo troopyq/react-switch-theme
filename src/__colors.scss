@@ -1,0 +1,24 @@
+:root {
+  --header: var(--light-header);
+  --main: var(--light-main);
+  --footer: var(--light-footer);
+  --text: var(--light-text);
+
+  --dark-header: var(--color-dark-1);
+  --dark-main: var(--color-dark-2);
+  --dark-footer: var(--color-dark-3);
+  --dark-text: var(--color-light-1);
+
+  --light-header: var(--color-light-1);
+  --light-main: var(--color-light-2);
+  --light-footer: var(--color-light-3);
+  --light-text: var(--color-dark-1);
+
+  --color-dark-1: rgb(52, 55, 61);
+  --color-dark-2: rgb(89, 94, 102);
+  --color-dark-3: rgb(76, 80, 87);
+
+  --color-light-1: rgb(245, 245, 245);
+  --color-light-2: rgb(212, 212, 212);
+  --color-light-3: rgb(245, 245, 245);
+}
